@@ -1,0 +1,18 @@
+Le but de cet algorithme n'est absolument pas d'inciter les gens à boire, veuillez noter que je me retire toute responsibilité si un mauvais usage de cet algorithme 
+était amené à être fait.
+
+Il est également important que préciser que cet algorithme est basé pour les habitants français puisque les taux légaux d'alcoolémies mis en avant dans cet algorithme
+sont les taux français.
+
+L'algorithme a été fait durant les mois de Février-Mars 2022, il se peut qu'à l'heure où vous voyez ce projet, les taux d'alcoolémies aient changés.
+
+=====================================================================================================================================================================
+
+Pour revenir à l'algorithme, malheureusement il s'agit pas d'une version poussée, de ce fait l'algorithme marche seulement si l'on lui donne les boissons
+ingérée à un instant T.
+
+Ainsi vous ne pourrez pas obtenir le taux d'alcoolémie exact si vous étiez amené à renseigné que, par exemple, vous avez bu 1 bièreà 20h et 1 verre de vin rouge à 21h,
+l'algorithme comprendrait que vous avez bu ces deux verres au moment de l'assimilation du premier verre (à 20h exactement dans ce cas).
+
+
+Mise à part ceci, l'algorithme fonctionne, il a été comparé via des algorithmes finis (exemple : https://taux-alcool.fr/) et donne une exactitude du degré d'alcool.
